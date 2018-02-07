@@ -1,0 +1,28 @@
+{
+    "bin": {},
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "gto",
+    "version": "0.0.0",
+    "main": "index.js",
+    "keywords": [
+        ""
+    ],
+    "homepage": "https://github.com/YounGoat/gto",
+    "description": "Security holding package",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/gto.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
